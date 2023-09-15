@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive\桌面\CaranoChess\CaranoChess\CaranoChess\bin\Debug\CaranoChess.exe.config
+C:\Users\user\OneDrive\桌面\CaranoChess\CaranoChess\CaranoChess\bin\Debug\CaranoChess.exe
+C:\Users\user\OneDrive\桌面\CaranoChess\CaranoChess\CaranoChess\bin\Debug\CaranoChess.pdb
+C:\Users\user\OneDrive\桌面\CaranoChess\CaranoChess\CaranoChess\obj\Debug\CaranoChess.csprojAssemblyReference.cache
+C:\Users\user\OneDrive\桌面\CaranoChess\CaranoChess\CaranoChess\obj\Debug\CaranoChess.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\桌面\CaranoChess\CaranoChess\CaranoChess\obj\Debug\CaranoChess.exe
+C:\Users\user\OneDrive\桌面\CaranoChess\CaranoChess\CaranoChess\obj\Debug\CaranoChess.pdb
+C:\Users\user\Downloads\NTU\programProjects\finalProject\CaranoChess\CaranoChess\CaranoChess\bin\Debug\CaranoChess.exe.config
+C:\Users\user\Downloads\NTU\programProjects\finalProject\CaranoChess\CaranoChess\CaranoChess\bin\Debug\CaranoChess.exe
+C:\Users\user\Downloads\NTU\programProjects\finalProject\CaranoChess\CaranoChess\CaranoChess\bin\Debug\CaranoChess.pdb
+C:\Users\user\Downloads\NTU\programProjects\finalProject\CaranoChess\CaranoChess\CaranoChess\obj\Debug\CaranoChess.csprojAssemblyReference.cache
+C:\Users\user\Downloads\NTU\programProjects\finalProject\CaranoChess\CaranoChess\CaranoChess\obj\Debug\CaranoChess.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\NTU\programProjects\finalProject\CaranoChess\CaranoChess\CaranoChess\obj\Debug\CaranoChess.exe
+C:\Users\user\Downloads\NTU\programProjects\finalProject\CaranoChess\CaranoChess\CaranoChess\obj\Debug\CaranoChess.pdb
